@@ -1,0 +1,3 @@
+import reeshu
+
+reeshu.welcome()
